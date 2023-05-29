@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T13:00:56.505Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Z5hnX1lBqa3JyhlXD1sj" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T13:01:50.137Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="z6xCtjcj_FimInMTv1ov" version="21.3.5" type="github">
   <diagram name="第 1 页" id="SNQtHYCIwjNwvBl_s8rR">
     <mxGraphModel dx="2006" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
@@ -90,19 +90,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uFycqHkmEpAXYmNUCSOf-18" value="获取批扣明细，逐笔更新资金流水表" style="whiteSpace=wrap;html=1;strokeWidth=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="-400" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFycqHkmEpAXYmNUCSOf-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="uFycqHkmEpAXYmNUCSOf-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-340" y="910" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-180" y="900" />
-              <mxPoint x="-340" y="900" />
+              <mxPoint x="-180" y="840" />
+              <mxPoint x="-340" y="840" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uFycqHkmEpAXYmNUCSOf-24" value="重复次数+1，任务状态更新为处理失败" style="whiteSpace=wrap;html=1;strokeWidth=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="-240" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFycqHkmEpAXYmNUCSOf-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uFycqHkmEpAXYmNUCSOf-25" target="uFycqHkmEpAXYmNUCSOf-18">
           <mxGeometry relative="1" as="geometry" />
@@ -123,16 +123,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uFycqHkmEpAXYmNUCSOf-25" value="通道是否返回批扣明细" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="580" width="100" height="80" as="geometry" />
+          <mxGeometry x="-390" y="550" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uFycqHkmEpAXYmNUCSOf-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uFycqHkmEpAXYmNUCSOf-35" target="uFycqHkmEpAXYmNUCSOf-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uFycqHkmEpAXYmNUCSOf-35" value="更新批扣任务表，&lt;br&gt;状态更新为处理完成、记录成功金额及成功笔数等" style="whiteSpace=wrap;html=1;strokeWidth=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="-400" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFycqHkmEpAXYmNUCSOf-37" value="任务结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="930" width="100" height="60" as="geometry" />
+          <mxGeometry x="-390" y="870" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
