@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T10:56:43.279Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="8TJ0ZavWB5x292-k24pB" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T11:07:47.015Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="83LApnuGM7AFiZHPhiPB" version="21.3.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2060" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -336,7 +336,7 @@
           <mxGeometry x="-455" y="190" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OF1I2wjS6nCLFCAFnDBd-200" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-455" y="630" width="100" height="60" as="geometry" />
+          <mxGeometry x="-455" y="600" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OF1I2wjS6nCLFCAFnDBd-208" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OF1I2wjS6nCLFCAFnDBd-201" target="OF1I2wjS6nCLFCAFnDBd-207">
           <mxGeometry relative="1" as="geometry" />
@@ -344,8 +344,20 @@
         <mxCell id="OF1I2wjS6nCLFCAFnDBd-201" value="登记交易查询流水表&lt;br&gt;状态为初始[00]" style="whiteSpace=wrap;html=1;strokeWidth=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-465" y="310" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OF1I2wjS6nCLFCAFnDBd-210" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OF1I2wjS6nCLFCAFnDBd-207" target="OF1I2wjS6nCLFCAFnDBd-209">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OF1I2wjS6nCLFCAFnDBd-207" value="根据原流水号查询资金流水状态" style="whiteSpace=wrap;html=1;strokeWidth=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-465" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OF1I2wjS6nCLFCAFnDBd-211" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OF1I2wjS6nCLFCAFnDBd-209" target="OF1I2wjS6nCLFCAFnDBd-200">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OF1I2wjS6nCLFCAFnDBd-209" value="返回查询结果" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-465" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OF1I2wjS6nCLFCAFnDBd-212" value="批次查询交易流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-495" y="30" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
