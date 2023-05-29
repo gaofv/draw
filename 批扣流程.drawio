@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T05:38:44.413Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="BgWCZ6qzMiGjd8_LgFIW" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T06:44:11.361Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Tlaj8yZkPil_TYrBEqpc" version="21.3.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1026" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
@@ -24,34 +24,34 @@
         </mxCell>
         <mxCell id="OF1I2wjS6nCLFCAFnDBd-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OF1I2wjS6nCLFCAFnDBd-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="130" y="100" as="targetPoint" />
+            <mxPoint x="140" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OF1I2wjS6nCLFCAFnDBd-5" value="开始" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" width="100" height="60" as="geometry" />
+          <mxGeometry x="90" y="90" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OF1I2wjS6nCLFCAFnDBd-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OF1I2wjS6nCLFCAFnDBd-12" target="OF1I2wjS6nCLFCAFnDBd-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OF1I2wjS6nCLFCAFnDBd-12" value="登记交易、资金流水表，状态为初始00" style="whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="OF1I2wjS6nCLFCAFnDBd-12" value="登记交易、资金流水表，状态为初始-00" style="whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OF1I2wjS6nCLFCAFnDBd-14" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="870" width="100" height="60" as="geometry" />
+          <mxGeometry x="90" y="890" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OF1I2wjS6nCLFCAFnDBd-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OF1I2wjS6nCLFCAFnDBd-24" target="OF1I2wjS6nCLFCAFnDBd-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="130" y="340" as="targetPoint" />
+            <mxPoint x="140" y="430" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="20" y="140" />
-              <mxPoint x="20" y="820" />
-              <mxPoint x="130" y="820" />
+              <mxPoint x="30" y="230" />
+              <mxPoint x="30" y="860" />
+              <mxPoint x="140" y="860" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OF1I2wjS6nCLFCAFnDBd-33" value="失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OF1I2wjS6nCLFCAFnDBd-27">
           <mxGeometry x="-0.8486" y="1" relative="1" as="geometry">
-            <mxPoint x="-5" y="89" as="offset" />
+            <mxPoint x="-1" y="52" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OF1I2wjS6nCLFCAFnDBd-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OF1I2wjS6nCLFCAFnDBd-24" target="OF1I2wjS6nCLFCAFnDBd-12">
@@ -63,7 +63,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OF1I2wjS6nCLFCAFnDBd-24" value="请求参数校验" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="100" width="100" height="80" as="geometry" />
+          <mxGeometry x="90" y="190" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OF1I2wjS6nCLFCAFnDBd-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OF1I2wjS6nCLFCAFnDBd-46" target="OF1I2wjS6nCLFCAFnDBd-49">
           <mxGeometry relative="1" as="geometry" />
@@ -76,14 +76,43 @@
         <mxCell id="OF1I2wjS6nCLFCAFnDBd-54" value="成功" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OF1I2wjS6nCLFCAFnDBd-46" target="OF1I2wjS6nCLFCAFnDBd-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OF1I2wjS6nCLFCAFnDBd-46" value="调用路由中心" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="330" width="100" height="80" as="geometry" />
+        <mxCell id="OF1I2wjS6nCLFCAFnDBd-46" value="调用路由中心批量接口" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="410" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OF1I2wjS6nCLFCAFnDBd-49" value="更新资金流水表，状态为失败02" style="whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="OF1I2wjS6nCLFCAFnDBd-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OF1I2wjS6nCLFCAFnDBd-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="630" />
+              <mxPoint x="140" y="630" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="OF1I2wjS6nCLFCAFnDBd-53" value="根据通道ID确定通道" style="whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="OF1I2wjS6nCLFCAFnDBd-49" value="更新资金流水表，状态00为失败-02" style="whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OF1I2wjS6nCLFCAFnDBd-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OF1I2wjS6nCLFCAFnDBd-53" target="OF1I2wjS6nCLFCAFnDBd-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OF1I2wjS6nCLFCAFnDBd-53" value="更新资金流水表、填充通道ID等、状态00更新为待组包-04" style="whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OF1I2wjS6nCLFCAFnDBd-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OF1I2wjS6nCLFCAFnDBd-57" target="OF1I2wjS6nCLFCAFnDBd-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OF1I2wjS6nCLFCAFnDBd-57" value="交易流水表状态00更新为成功01" style="whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OF1I2wjS6nCLFCAFnDBd-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OF1I2wjS6nCLFCAFnDBd-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OF1I2wjS6nCLFCAFnDBd-64" value="返回交易结果&lt;br&gt;（批扣交易都是成功状态）" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OF1I2wjS6nCLFCAFnDBd-71" value="批扣交易流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="30" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
