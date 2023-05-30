@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T03:20:14.268Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="mjeuuT7iXPwWyGyW-kH8" version="21.3.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-30T06:49:35.156Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ck4zOv9BtyG99PTwQM1Y" version="21.3.5" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="批扣交易流程">
     <mxGraphModel dx="1026" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" background="none" math="1" shadow="0">
       <root>
@@ -233,7 +233,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="H5hXUL2En8lBKoJXusl8" name="组包任务流程">
-    <mxGraphModel dx="1026" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -279,6 +279,11 @@
         <mxCell id="MyXVgSd4N1Hs7LnlCGAf-36" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;rounded=1;labelBorderColor=none;fontColor=#143642;" parent="MyXVgSd4N1Hs7LnlCGAf-35" vertex="1" connectable="0">
           <mxGeometry x="-0.28" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dMOkRaNjwCwUQEnObOBV-4" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;rounded=1;endArrow=none;endFill=0;" edge="1" parent="1" source="MyXVgSd4N1Hs7LnlCGAf-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MyXVgSd4N1Hs7LnlCGAf-37" value="待组包流水是否为空" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=1;labelBackgroundColor=none;rounded=1;labelBorderColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
@@ -430,13 +435,13 @@
         <mxCell id="MyXVgSd4N1Hs7LnlCGAf-76" value="更新资金流水，状态&lt;br&gt;由组包中[05]&lt;br&gt;更新为处理中[99]" style="whiteSpace=wrap;html=1;strokeWidth=1;labelBackgroundColor=none;rounded=1;labelBorderColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="440" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XYTr-T15snj2jXMt2UiI-1" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" parent="1" vertex="1">
+        <mxCell id="XYTr-T15snj2jXMt2UiI-1" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="650" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XYTr-T15snj2jXMt2UiI-2" value="组包中：正在处理组包，此时还未发送通道" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;" parent="1" vertex="1">
+        <mxCell id="XYTr-T15snj2jXMt2UiI-2" value="组包中：正在处理组包，此时还未发送通道" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="225" y="667.5" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="3qldojePqPSE2E3UoJhs-1" value="交易状态：&lt;br&gt;&amp;nbsp; 00-初始&lt;br&gt;&amp;nbsp; 01-成功&lt;br&gt;&amp;nbsp; 02-失败&lt;br&gt;&amp;nbsp; 03-待短验&lt;br&gt;&amp;nbsp; 04-待组包&lt;br&gt;&amp;nbsp; 05-组包中&lt;br&gt;&amp;nbsp; 99-处理中" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;align=left;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="3qldojePqPSE2E3UoJhs-1" value="交易状态：&lt;br&gt;&amp;nbsp; 00-初始&lt;br&gt;&amp;nbsp; 01-成功&lt;br&gt;&amp;nbsp; 02-失败&lt;br&gt;&amp;nbsp; 03-待短验&lt;br&gt;&amp;nbsp; 04-待组包&lt;br&gt;&amp;nbsp; 05-组包中&lt;br&gt;&amp;nbsp; 99-处理中" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;align=left;verticalAlign=top;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="770" y="20" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
