@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T07:26:54.432Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="DwSj8Lx1YYdRdFt68wFM" version="21.3.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-30T07:27:20.190Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="d0uH_Z5bDqm2LdMzWqAG" version="21.3.5" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="批扣交易流程">
     <mxGraphModel dx="1026" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" background="none" math="1" shadow="0">
       <root>
@@ -537,7 +537,7 @@
         <mxCell id="9a9p_D6PxH5m85dPSTuN-11" value="返回查询结果" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;labelBackgroundColor=none;rounded=1;labelBorderColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="-590" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9a9p_D6PxH5m85dPSTuN-12" value="批次查询交易流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=20;labelBackgroundColor=none;labelBorderColor=none;fontColor=#143642;" parent="1" vertex="1">
+        <mxCell id="9a9p_D6PxH5m85dPSTuN-12" value="商户批次查询交易" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=20;labelBackgroundColor=none;labelBorderColor=none;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="-620" y="20" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LPGkR27-kLWR-biTDU-V-1" value="交易状态：&lt;br&gt;&amp;nbsp; 00-初始&lt;br&gt;&amp;nbsp; 01-成功&lt;br&gt;&amp;nbsp; 02-失败&lt;br&gt;&amp;nbsp; 03-待短验&lt;br&gt;&amp;nbsp; 04-待组包&lt;br&gt;&amp;nbsp; 05-组包中&lt;br&gt;&amp;nbsp; 99-处理中" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;align=left;verticalAlign=top;labelBackgroundColor=none;" parent="1" vertex="1">
