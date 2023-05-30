@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T01:40:02.400Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="MJ9btkcyvJBoFczy2zvi" version="21.3.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-05-30T01:52:14.276Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="0Hd4LXAbwCw7TAkZjyCK" version="21.3.5" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="批扣交易流程">
     <mxGraphModel dx="892" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" background="none" math="0" shadow="0">
       <root>
@@ -256,6 +256,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-405" y="275" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jvMQINnhMS8l7ZN9EOfu-0" value="交易状态：&lt;br&gt;&amp;nbsp; 00-初始&lt;br&gt;&amp;nbsp; 01-成功&lt;br&gt;&amp;nbsp; 02-失败&lt;br&gt;&amp;nbsp; 03-待短验&lt;br&gt;&amp;nbsp; 04-待组包&lt;br&gt;&amp;nbsp; 05-组包中&lt;br&gt;&amp;nbsp; 99-处理中" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;align=left;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="10" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
