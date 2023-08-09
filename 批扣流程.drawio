@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T13:33:51.538Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="nTFC_GU7VmAREekR5lJA" version="21.6.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-08-09T13:35:45.379Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="KY7NSp_l5auCDnYLemIQ" version="21.6.1" type="github" pages="8">
   <diagram id="89Wvnu4Eutbc3CbAsexy" name="商户批扣交易流程">
     <mxGraphModel dx="1026" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
@@ -1042,7 +1042,7 @@
         <mxCell id="algAs6B7uAOO-2d0oT0f-36" value="签约、还款" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="algAs6B7uAOO-2d0oT0f-37">
           <mxGeometry x="55" y="190" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="algAs6B7uAOO-2d0oT0f-39" value="&lt;h1&gt;代收服务系统架构&lt;/h1&gt;&lt;p&gt;1. 代收服务负责与通道交互、记录交易流水等&lt;/p&gt;&lt;p&gt;2. 路由服务负责维护通道、商户等基础数据、为代收服务提供最优通道&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="algAs6B7uAOO-2d0oT0f-39" value="&lt;h1&gt;代收服务系统架构&lt;/h1&gt;&lt;p&gt;1. 代收服务：1）与通道交互 、2）维护交易资金流水等&lt;/p&gt;&lt;p&gt;2. 路由服务：1）维护通道、商户等基础数据、2）为代收服务提供最优通道&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="77.5" y="50" width="480" height="100" as="geometry" />
         </mxCell>
       </root>
