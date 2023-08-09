@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T12:58:59.233Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="BWslf-Y5sFDTlnABHZPH" version="21.6.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-08-09T13:33:51.538Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="nTFC_GU7VmAREekR5lJA" version="21.6.1" type="github" pages="8">
   <diagram id="89Wvnu4Eutbc3CbAsexy" name="商户批扣交易流程">
     <mxGraphModel dx="1026" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
@@ -994,6 +994,56 @@
         </mxCell>
         <mxCell id="chW-9Asv4TqOAXeVR9ZX-101" value="代收服务" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="20" y="2260" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LWHdUMt4l85Mc6o3J1HX" name="系统架构">
+    <mxGraphModel dx="1026" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="algAs6B7uAOO-2d0oT0f-38" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="40" width="530" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="algAs6B7uAOO-2d0oT0f-37" value="" style="group;labelBackgroundColor=none;strokeWidth=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="190" width="335" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="algAs6B7uAOO-2d0oT0f-15" value="代收服务" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="algAs6B7uAOO-2d0oT0f-37">
+          <mxGeometry y="100" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="algAs6B7uAOO-2d0oT0f-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="algAs6B7uAOO-2d0oT0f-37" source="algAs6B7uAOO-2d0oT0f-16" target="algAs6B7uAOO-2d0oT0f-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="algAs6B7uAOO-2d0oT0f-16" value="&lt;br&gt;&lt;br&gt;商户" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="algAs6B7uAOO-2d0oT0f-37">
+          <mxGeometry x="35" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="algAs6B7uAOO-2d0oT0f-20" value="通道" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="algAs6B7uAOO-2d0oT0f-37">
+          <mxGeometry y="240" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="algAs6B7uAOO-2d0oT0f-22" value="路由服务" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="algAs6B7uAOO-2d0oT0f-37">
+          <mxGeometry x="225" y="100" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="algAs6B7uAOO-2d0oT0f-29" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="algAs6B7uAOO-2d0oT0f-37" source="algAs6B7uAOO-2d0oT0f-20" target="algAs6B7uAOO-2d0oT0f-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="15" y="220" as="sourcePoint" />
+            <mxPoint x="65" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="algAs6B7uAOO-2d0oT0f-31" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="algAs6B7uAOO-2d0oT0f-37" source="algAs6B7uAOO-2d0oT0f-22" target="algAs6B7uAOO-2d0oT0f-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="190" as="sourcePoint" />
+            <mxPoint x="115" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="algAs6B7uAOO-2d0oT0f-32" value="筛选最优通道" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="algAs6B7uAOO-2d0oT0f-37">
+          <mxGeometry x="115" y="110" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="algAs6B7uAOO-2d0oT0f-36" value="签约、还款" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="algAs6B7uAOO-2d0oT0f-37">
+          <mxGeometry x="55" y="190" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="algAs6B7uAOO-2d0oT0f-39" value="&lt;h1&gt;代收服务系统架构&lt;/h1&gt;&lt;p&gt;1. 代收服务负责与通道交互、记录交易流水等&lt;/p&gt;&lt;p&gt;2. 路由服务负责维护通道、商户等基础数据、为代收服务提供最优通道&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="77.5" y="50" width="480" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
