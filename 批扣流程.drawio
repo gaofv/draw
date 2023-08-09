@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T14:32:18.880Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="jtiwsCpALrKNFvZWYetT" version="21.6.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-08-09T14:54:31.324Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="BoaAWitMzkOrx2XUbPFz" version="21.6.1" type="github" pages="8">
   <diagram id="89Wvnu4Eutbc3CbAsexy" name="商户批扣交易流程">
     <mxGraphModel dx="1026" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
@@ -1075,8 +1075,8 @@
         <mxCell id="algAs6B7uAOO-2d0oT0f-49" value="MySQL/Oracle" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="algAs6B7uAOO-2d0oT0f-59">
           <mxGeometry x="266.25" y="110" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="algAs6B7uAOO-2d0oT0f-60" value="&lt;h1&gt;技术选型&lt;/h1&gt;&lt;p&gt;SpringCloud H版本、SpringBoot 2.6&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;为什么使用SpringCloud H版本，而不是其他版本或者其他微服务框架？&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 为了遵循行方自研框架技术规范，方便项目后期升级和维护。（如果需要解决一些技术漏洞等问题，等框架团队修复完后，我们只需要升级框架版本即可）&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="600" width="520" height="170" as="geometry" />
+        <mxCell id="algAs6B7uAOO-2d0oT0f-60" value="&lt;h1&gt;技术选型&lt;/h1&gt;&lt;p&gt;SpringCloud H版本、SpringBoot 2.6&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;为什么使用SpringCloud H版本，而不是其他版本或者其他微服务框架？&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 为了遵循行方自研框架技术规范，方便项目后期升级和维护。（如果需要解决一些技术漏洞等问题，等框架团队修复完后，我们只需要升级框架版本即可）&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. 部门提供公用的Eureka及Apollo环境，这些有团队提供维护和支持。如果要使用其他注册中心等，就意味着需要自己搭建环境，后期维护成本比较高。&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="590" width="520" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
