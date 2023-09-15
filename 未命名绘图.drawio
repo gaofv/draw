@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-15T15:33:13.855Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="--hgHYY7TanF8WNd-k6A" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-15T16:05:45.847Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="iwE1QiJKEkf1gf5PjQfB" version="21.6.9" type="github">
   <diagram name="第 1 页" id="378MoUTFrgEfipfiB0If">
     <mxGraphModel dx="1026" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
@@ -117,8 +117,8 @@
         <mxCell id="4H9VBz2CUJ8RRqP6W9ab-34" value="高铁" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="490" y="298" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4H9VBz2CUJ8RRqP6W9ab-38" value="&lt;h1&gt;方案1（东西朝向）&lt;/h1&gt;&lt;p&gt;1. 两层高，楼顶瓦片&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2. 面积：13.5*8.x（宽度不超过9m）&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;3. 布局：&lt;span style=&quot;background-color: initial;&quot;&gt;一楼客厅、餐厅、两个卧室、一个卫生间。二楼客厅、一个卫生间、其余均做卧室（尽量3个以上，卧室考虑阳台）&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. 预算：主体大概20w左右&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="650" width="445" height="165" as="geometry" />
+        <mxCell id="4H9VBz2CUJ8RRqP6W9ab-38" value="&lt;h1&gt;方案1（东西朝向）&lt;/h1&gt;&lt;p&gt;1. 两层高，楼顶瓦片&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2. 面积：13.5*8.x（宽度不超过9m）&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;3. 布局：&lt;span style=&quot;background-color: initial;&quot;&gt;一楼客厅、餐厅、两个卧室、一个卫生间。二楼客厅和一楼一致、一个卫生间、其余均做卧室（尽量3个以上，卧室考虑阳台）&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. 预算：主体大概20w左右&lt;/span&gt;&lt;/p&gt;&lt;p&gt;5. 院子：两道大门，内门实体墙，外门用铁栅栏，院内种菜或停车&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="650" width="445" height="165" as="geometry" />
         </mxCell>
         <mxCell id="4H9VBz2CUJ8RRqP6W9ab-40" value="空地" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="490" width="60" height="30" as="geometry" />
@@ -126,8 +126,8 @@
         <mxCell id="4H9VBz2CUJ8RRqP6W9ab-41" value="空地" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="380" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4H9VBz2CUJ8RRqP6W9ab-42" value="&lt;h1&gt;方案2（南北朝向）&lt;/h1&gt;&lt;p&gt;1. 两层高，楼顶瓦片&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2. 面积：16*7&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;3. 布局：&lt;span style=&quot;background-color: initial;&quot;&gt;一楼客厅、餐厅、两个卧室、一个卫生间。二楼客厅、一个卫生间、其余均做卧室（尽量3个以上，卧室考虑阳台）&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. 预算：主体大概20w左右&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="640" width="445" height="165" as="geometry" />
+        <mxCell id="4H9VBz2CUJ8RRqP6W9ab-42" value="&lt;h1&gt;方案2（南北朝向）&lt;/h1&gt;&lt;p&gt;1. 两层高，楼顶瓦片&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2. 面积：16*7&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;3. 布局：一楼客厅、餐厅、两个卧室、一个卫生间。&lt;/p&gt;二楼客厅和一楼一致&lt;span style=&quot;background-color: initial;&quot;&gt;、一个卫生间、其余均做卧室（尽量3个以上，卧室考虑阳台）&lt;/span&gt;&lt;br&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. 预算：主体大概20w左右&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5. 院子：一道大门实体墙&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="650" width="445" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
