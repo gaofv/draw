@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T07:03:33.414Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Ew5uSaIesUH99JrWV3kU" version="22.1.11" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-12-20T07:13:08.035Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="14UUQoDDhcrMBgQ6FwnE" version="22.1.11" type="github" pages="10">
   <diagram name="签约交易流程" id="kctDgUfFJCEr8_cCmfzZ">
     <mxGraphModel dx="2028" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
         <mxCell id="Ogd1w0w8Z8hPeWMVXEsE-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;direction=west;labelBackgroundColor=none;" vertex="1" parent="Ogd1w0w8Z8hPeWMVXEsE-1">
           <mxGeometry x="470" y="232.5" width="50" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="Ogd1w0w8Z8hPeWMVXEsE-28" value="参数格式校验（身份证号、手机号等）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;labelBackgroundColor=none;" vertex="1" parent="Ogd1w0w8Z8hPeWMVXEsE-1">
+        <mxCell id="Ogd1w0w8Z8hPeWMVXEsE-28" value="参数格式校验（身份证号、手机号、枚举值 等）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;labelBackgroundColor=none;" vertex="1" parent="Ogd1w0w8Z8hPeWMVXEsE-1">
           <mxGeometry x="530" y="249" width="180" height="22" as="geometry" />
         </mxCell>
         <mxCell id="be0aGl9pIRLmLSjvOlqx-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;strokeColor=#A8201A;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Ogd1w0w8Z8hPeWMVXEsE-1" source="Ogd1w0w8Z8hPeWMVXEsE-9">
