@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T07:01:30.217Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="U2ugRxr8cbXhJudqDUb1" version="22.1.11" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-12-20T07:03:33.414Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Ew5uSaIesUH99JrWV3kU" version="22.1.11" type="github" pages="10">
   <diagram name="签约交易流程" id="kctDgUfFJCEr8_cCmfzZ">
     <mxGraphModel dx="2028" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
@@ -301,6 +301,12 @@
         </mxCell>
         <mxCell id="flAs2fzsSTDs1ZmJqFr--1" value="返回结果" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;strokeWidth=1;labelBackgroundColor=none;rounded=1;labelBorderColor=none;" vertex="1" parent="Ogd1w0w8Z8hPeWMVXEsE-1">
           <mxGeometry x="350" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flAs2fzsSTDs1ZmJqFr--3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="Ogd1w0w8Z8hPeWMVXEsE-1">
+          <mxGeometry x="430" y="1080" width="50" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="flAs2fzsSTDs1ZmJqFr--4" value="异步操作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;" vertex="1" parent="Ogd1w0w8Z8hPeWMVXEsE-1">
+          <mxGeometry x="380" y="1200" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
