@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T00:47:19.077Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="N6ZmGbwyQXPESfbdm_NQ" version="22.1.11" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-12-26T00:50:23.774Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="3a4K7r786-EEI4m-phkD" version="22.1.11" type="github" pages="10">
   <diagram name="签约交易流程" id="kctDgUfFJCEr8_cCmfzZ">
     <mxGraphModel dx="2086" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
@@ -662,14 +662,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="J_O4l-QMU-yjaiUL4GOU-27" value="缓存路由通道结果，包含签约协议号、安全域等信息" style="whiteSpace=wrap;html=1;strokeWidth=1;labelBackgroundColor=none;rounded=1;labelBorderColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+        <mxCell id="J_O4l-QMU-yjaiUL4GOU-27" value="资金流水表中填充协议号、通道用户ID等信息。交易流水表中填充该批次的安全域信息" style="whiteSpace=wrap;html=1;strokeWidth=1;labelBackgroundColor=none;rounded=1;labelBorderColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="470" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3ADT-QCgImItxDBqUNT6-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;direction=west;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="600" y="830" width="50" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="3ADT-QCgImItxDBqUNT6-2" value="缓存过期时间6小时（可配置）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="670" y="844" width="180" height="22" as="geometry" />
+        <mxCell id="8rQ6czDy398iCz9SeikS-1" value="后续组包操作及批次查询操作需要使用这些数据" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="846.5" width="120" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
