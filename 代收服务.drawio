@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T01:09:20.827Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9Xb7Bb0f0nisVZLMNUhx" version="22.1.11" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-12-26T01:11:35.094Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="B0fCOZbDCM-cCiADy2xL" version="22.1.11" type="github" pages="10">
   <diagram name="签约交易流程" id="kctDgUfFJCEr8_cCmfzZ">
     <mxGraphModel dx="2086" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
@@ -1136,10 +1136,10 @@
           <mxGeometry x="-690" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L37CtF9TJ7JxiEd42WA4-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="-540" y="575" width="50" height="50" as="geometry" />
+          <mxGeometry x="-550" y="575" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="L37CtF9TJ7JxiEd42WA4-5" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;" vertex="1" parent="1">
-          <mxGeometry x="-480" y="585" width="60" height="30" as="geometry" />
+        <mxCell id="L37CtF9TJ7JxiEd42WA4-5" value="交易流水表中获取安全域数据&lt;br&gt;资金流水表中获取签约协议号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="585" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
