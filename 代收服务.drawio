@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T00:54:01.366Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="LaH5bJy3WRj5RcrttDuu" version="22.1.11" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-12-26T00:55:42.890Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="rs-Buprur9Tsk0a_3Wft" version="22.1.11" type="github" pages="10">
   <diagram name="签约交易流程" id="kctDgUfFJCEr8_cCmfzZ">
     <mxGraphModel dx="2086" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
@@ -835,7 +835,7 @@
         <mxCell id="XYTr-T15snj2jXMt2UiI-1" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="470" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XYTr-T15snj2jXMt2UiI-2" value="组包中：正在处理组包，此时还未发送通道" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#143642;" parent="1" vertex="1">
+        <mxCell id="XYTr-T15snj2jXMt2UiI-2" value="逐笔更新，通过影响结果数判断是否成功" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="210" y="487.5" width="150" height="25" as="geometry" />
         </mxCell>
         <mxCell id="LETUa34f4tWL8NIzB-6c-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" parent="1" source="LETUa34f4tWL8NIzB-6c-4" target="LETUa34f4tWL8NIzB-6c-12" edge="1">
