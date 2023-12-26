@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T00:55:42.890Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="rs-Buprur9Tsk0a_3Wft" version="22.1.11" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-12-26T00:56:33.769Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Nv5pivMsgW7GooJnAs_6" version="22.1.11" type="github" pages="10">
   <diagram name="签约交易流程" id="kctDgUfFJCEr8_cCmfzZ">
     <mxGraphModel dx="2086" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
@@ -862,7 +862,7 @@
             <mxPoint x="720" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LETUa34f4tWL8NIzB-6c-12" value="短信告警&lt;br&gt;(TODO)" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;strokeWidth=1;labelBackgroundColor=none;rounded=1;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="LETUa34f4tWL8NIzB-6c-12" value="回滚资金流水状态&lt;br&gt;短信告警" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;strokeWidth=1;labelBackgroundColor=none;rounded=1;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="570" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LETUa34f4tWL8NIzB-6c-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LETUa34f4tWL8NIzB-6c-24" target="U0MQWUJMeQ6zBn611Jl--1" edge="1">
